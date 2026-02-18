@@ -13,8 +13,6 @@ A modern, full-stack resume builder application that helps users create professi
 - **AI Assistant** - Smart suggestions for resume content
 - **Responsive Design** - Works on all devices
 
-## Tech Stack
-
 ### Frontend
 
 - React 19.1.1
